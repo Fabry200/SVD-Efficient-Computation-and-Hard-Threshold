@@ -1,5 +1,5 @@
 
-#Computationally efficient method for SVD. Investigating Geometry of Recursive Dyadic Sums in SVD and hard threeshold for limiting singular value truncation
+# Computationally efficient method for SVD. Investigating Geometry of Recursive Dyadic Sums in SVD and hard threeshold for limiting singular value truncation
 
 ## Project Overview
 
