@@ -1,19 +1,6 @@
 # SVD-Efficient-Computation-and-Hard-Threshold
 # Investigating Geometry of Recursive Dyadic Sums in SVD
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Introduction](#introduction)
-- [Key Concepts](#key-concepts)
-- [Methodology](#methodology)
-- [Thresholding for Singular Values](#thresholding-for-singular-values)
-- [SVD Computation Methods](#svd-computation-methods)
-- [Results and Observations](#results-and-observations)
-- [Potential Applications and Future Work](#potential-applications-and-future-work)
-- [Setup and Usage](#setup-and-usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
